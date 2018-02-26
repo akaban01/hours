@@ -4,7 +4,7 @@ var row_start ="<div class='row'>";
 var row_end ="</div>";
 var no_start ="<div>";
 var no_end ="</div>";
-var col_start ="<div class='col-xs'>";
+var col_start ="<div class='col'>";
 var col_end ="</div>";
 
 var card_start ="<div class='card'><div class='card-body'>";
