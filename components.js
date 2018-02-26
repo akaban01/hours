@@ -2,6 +2,8 @@ var section_start ="<div class='py-3'><div class='container'>";
 var section_end ="</div></div>";
 var row_start ="<div class='row'>";
 var row_end ="</div>";
+var no_start ="";
+var no_end ="";
 var col_start ="<div class='col-xs'>";
 var col_end ="</div>";
 
