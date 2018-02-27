@@ -72,6 +72,7 @@ function printHTML() {
     $("h2").addClass("display-4");
     $("h3").addClass("display-5");
     $("p").addClass("lead");
+    $(".col").addClass("h-100");
 }
 function print_col_content(i,j){
     if (getComponentsHTML(componentRows[i],j)!="") {
