@@ -1,1 +1,1 @@
-undefined
+"var data = [object Object]"
